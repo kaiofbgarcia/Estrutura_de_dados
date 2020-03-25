@@ -36,7 +36,7 @@ public class VetorNteste {
                 
             
             switch (opcao){
-                case 1: for(int i = 0 ; i<vet.length-1 ; i++){
+                case 1: for(int i = 0 ; i<vet.length ; i++){
                             System.out.println("Digete o valor a ser inserido no vetor: ");
                             vet[i] = tec.nextInt();
                         }
