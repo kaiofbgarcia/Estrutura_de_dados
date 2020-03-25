@@ -12,8 +12,8 @@ import java.util.Scanner;
  */
 public class VetorNteste {
     static Scanner tec = new Scanner(System.in);
-    static int vet[] = new int[6];
-    static int vet2[] = new int[6];
+    static int vet[] = new int[20];
+    static int vet2[] = new int[20];
 
     public static void main(String[] args) {
         // TODO code application logic here
